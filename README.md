@@ -31,7 +31,7 @@ This repository highlights my **major achievements**, **technologies**, and **im
 
 ---
 
-  ![Microservices Architecture](images/architecture.png)
+  ![Microservices Architecture](./architecture.png)
 
 ---
 
