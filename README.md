@@ -29,8 +29,12 @@ This repository highlights my **major achievements**, **technologies**, and **im
 - **UI Development:** Developed responsive browser-based chatbot interfaces with **Angular**, **JavaScript**, **HTML**, and **CSS**, enhancing engagement by **30%**.  
 - **Cross-Functional Collaboration:** Coordinated with product, design, and DevOps for tight integration and compliance, strengthening project management capabilities.
 
----
+  ![Microservices Architecture](./1.png)
+  ![Microservices Architecture](./2.png)
+  ![Microservices Architecture](./3.png)
 
+---
+## Architecture
   ![Microservices Architecture](./architecture.png)
 
 ---
