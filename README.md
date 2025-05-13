@@ -35,4 +35,4 @@ A concise showcase of my major contributions as a Software Engineer at **Darwinb
 ## 📫 Connect with Me
 **Harsha Vallabhaneni** — srva5218@colorado.edu
 
-Linkedin - (https://www.linkedin.com/in/vallabhanenisriharsha/)[https://www.linkedin.com/in/vallabhanenisriharsha/]
+Linkedin - https://www.linkedin.com/in/vallabhanenisriharsha/
