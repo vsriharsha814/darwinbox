@@ -34,7 +34,6 @@ This repository highlights my **major achievements**, **technologies**, and **im
   ![Notifications](./1.png)
   ![Conversational Actions](./2.png)
   ![HR Policies Tab](./3.png)
-
   ![Web Chatbot](./5.png)
 
 ---
