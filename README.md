@@ -20,6 +20,8 @@ This repository highlights my **major achievements**, **technologies**, and **im
 - **Vector Search Optimization:** Optimized query performance by **35%** using MongoDB Vector Database for similarity searches of embeddings.  
 - **Project Leadership:** Led AI model integration for HR compliance initiatives, collaborating with product, design, and engineering teams to ensure seamless adoption.
 
+![Conv AI](./4.png)
+
 ### Software Development Engineer (SDE)
 *June 2022 – September 2022*
 
@@ -32,6 +34,8 @@ This repository highlights my **major achievements**, **technologies**, and **im
   ![Notifications](./1.png)
   ![Conversational Actions](./2.png)
   ![HR Policies Tab](./3.png)
+
+  ![Web Chatbot](./5.png)
 
 ---
 ## Architecture
